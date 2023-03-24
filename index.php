@@ -7,6 +7,7 @@
     <title>halaman utama</title>
 </head>
 <body>
-    
+    <h3>ini jadul</h3>
+    <p>isi artikal disini</p>
 </body>
 </html>
